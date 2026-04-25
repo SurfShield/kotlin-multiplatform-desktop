@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="KubernetesApiProvider">{}</component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="corretto-11 (2)" project-jdk-type="JavaSDK" />
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="620000" />
+  </component>
+</project>

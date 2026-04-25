@@ -18,7 +18,7 @@ import com.github.shiroedev2024.leaf.desktop.model.UpdateLeafPreferences
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import java.io.File
-import java.util.Properties
+import java.util.*
 
 @Composable
 @Preview
