@@ -25,7 +25,7 @@ dependencies {
 
     val os = osdetector.os
     val arch = osdetector.arch
-    val leafVersion = "1.5.1"
+    val leafVersion = "2.1.0"
 
     when {
         os == "linux" && arch == "x86_64" -> {
